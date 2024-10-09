@@ -1,7 +1,11 @@
 SortArray2.class
+MaxMinAvg.class
 CheckArrayMismatch.class
 FindElement.class
+FillArray.class
+ReverseArray.class
 SortArray.class
 CheckArrayEquals.class
+ChangeArraySize.class
 SortArray2$1.class
 CheckArrayLexicographically.class
